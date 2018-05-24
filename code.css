@@ -1,0 +1,36 @@
+body {
+	background-image:url(code1.jpg);
+	background-size: 90% 90%;
+	background-position: 50% 50%;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	text-align: center;
+}
+button{
+	background-color: black;
+	color:white;
+	font-weight: bold;
+	font-size: 20px;
+}
+#result {
+	align-content: center;
+	font-size: 200%;
+	font-variant: small-caps;
+	text-shadow: 0 0 3px #ff0000;
+}
+#content {
+	font-size:150%;
+	font-variant: small-caps;
+	text-shadow: 0 0 3px #00FF00;
+}
+p {
+	text-align: center;
+	font-size: 150%;
+	font-family: initial;
+}
+h1 {
+	text-align: center;
+	font-size: 250%;
+	text-shadow: 2px 2px 8px #333333;
+	lighting-color: green;
+}
